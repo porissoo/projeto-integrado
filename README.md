@@ -7,6 +7,8 @@
 
 # Proposta de Tecnologias a Estudar de forma autónoma
 
+(Maior utilizacao)[CodeAcademy]([https://www.freecodecamp.org/news/learn-figma-for-ui-ux-design/](https://www.codecademy.com/learn))
+
 [Learn Figma for UI/UX Design](https://www.freecodecamp.org/news/learn-figma-for-ui-ux-design/)
 
 
